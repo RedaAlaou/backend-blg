@@ -1,0 +1,13 @@
+{
+  "name": "blg-cod-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shopify App Proxy backend that turns the B.L.G COD form into real pending (cash on delivery) orders.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node test/run-tests.mjs"
+  }
+}
